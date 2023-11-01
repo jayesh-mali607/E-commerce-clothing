@@ -8,7 +8,10 @@ export default function Navbarr() {
         <div className="container">
           <div className="header-content">
             <div className="logo">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-n6U4Xo23NXEI0CTwo6qv5hmCExI0iaucQ&usqp=CAU" alt="Clothing Brand Logo" />
+              <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-n6U4Xo23NXEI0CTwo6qv5hmCExI0iaucQ&usqp=CAU"
+                alt="Clothing Brand Logo"
+              />
             </div>
             <nav>
               <ul>
@@ -23,6 +26,9 @@ export default function Navbarr() {
                 </li>
                 <li>
                   <a href="/contact">Contact</a>
+                </li>
+                <li>
+                  <a href="/contact">Contact2</a>
                 </li>
               </ul>
             </nav>
