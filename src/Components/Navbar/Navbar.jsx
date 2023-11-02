@@ -27,9 +27,6 @@ export default function Navbarr() {
                 <li>
                   <a href="/contact">Contact</a>
                 </li>
-                <li>
-                  <a href="/contact">Contact2</a>
-                </li>
               </ul>
             </nav>
             <div className="dynamic-title" id="dynamic-title">
